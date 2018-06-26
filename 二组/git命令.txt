@@ -1,0 +1,8 @@
+﻿打开git Brash
+进入目录cd BBS 
+查看物理路径  pwd
+git pull --rebase origin master
+鼠标更新文件
+添加 git add  二组
+提交 git commit -m "二组20180625"
+远程更新 git push-u origin master
